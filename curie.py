@@ -10,7 +10,7 @@ T = data[:, 0]
 R = data[:, 1]
 
 # Define the step size (n-step differentiation)
-n = 1  # You can adjust this to the desired step size
+n = 50  # You can adjust this to the desired step size
 
 
 # Compute the derivative using a larger step size
